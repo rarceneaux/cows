@@ -2,4 +2,7 @@ import '../styles/main.scss';
 
 import 'bootstrap';
 
-console.error('hi');
+const init = () => {
+  console.log('hi');
+};
+init();
